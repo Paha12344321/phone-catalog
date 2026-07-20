@@ -20,9 +20,13 @@ Nice Gadgets Store is a comprehensive product catalog application. It features a
 *   **Code Quality**: ESLint, Prettier, Stylelint
 
 ## 📸 Live Demo
+
 [Check out the live project here: https://Paha12344321.github.io/phone-catalog/](https://Paha12344321.github.io/phone-catalog/)
 
-*(Replace with your actual GitHub Pages URL)*
+
+## <img width="30" height="30" alt="image 1461" src="https://github.com/user-attachments/assets/b52c5a86-ecd6-4811-8544-c1af4990bc89" /> Figma link
+
+https://www.figma.com/design/WMdJ24eHk4EkSr25mrt7Y2/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f&t=n081p9XYEatzkd5d-0
 
 ## 📦 Getting Started
 
